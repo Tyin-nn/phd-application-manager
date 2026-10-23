@@ -1,0 +1,10 @@
+.DS_Store
+.cursor/
+private/
+supervisor/
+ApplyingPHD.xlsx
+node_modules/
+*.log
+
+# personal drafts (not for publishing)
+application_materials/drafts/
